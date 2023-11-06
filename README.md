@@ -13,8 +13,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 1. ERD diagram:
-    <img src="./erd.jpg" alt="Logo" width="200" height="80">
-2. 
+   
+    <img src="./erd.jpg" alt="Logo" width="500" height="500">
+3. 
 
 ## Getting Started
 
