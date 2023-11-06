@@ -69,5 +69,6 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Front-end: [https://github.com/Mhiudangniengrang/MEET-MY-LECTURE.git](https://github.com/Mhiudangniengrang/MEET-MY-LECTURE.git)
-Back-end: [https://github.com/truonghuy2490/Meet_My_Lecture.git](https://github.com/truonghuy2490/Meet_My_Lecture.git)
+1. Front-end: [https://github.com/Mhiudangniengrang/MEET-MY-LECTURE.git](https://github.com/Mhiudangniengrang/MEET-MY-LECTURE.git)
+
+2. Back-end: [https://github.com/truonghuy2490/Meet_My_Lecture.git](https://github.com/truonghuy2490/Meet_My_Lecture.git)
