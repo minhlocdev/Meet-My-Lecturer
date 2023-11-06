@@ -12,10 +12,15 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-1. ERD diagram:
+1. Usecase Diagram:
+
+    <img src="./Use Case Diagram .png" alt="Logo" width="1000" height="800">
+2. ERD diagram:
    
-    <img src="./erd.jpg" alt="Logo" width="500" height="500">
-3. 
+    <img src="./erd.jpg" alt="Logo" width="1000" height="500">
+3. Database diagram:
+   
+   <img src="./database diagram.jpg" alt="Logo" width="1500" height="500">
 
 ## Getting Started
 
