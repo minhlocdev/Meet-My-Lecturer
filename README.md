@@ -12,14 +12,11 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
+1. ERD diagram:
+     <a href=["https://github.com/Mhiudangniengrang/FPT_LOGIN](https://lucid.app/lucidchart/15585d20-55a6-4d2b-9741-b3d57cdc0698/edit?invitationId=inv_dde16b6b-dbdc-42fa-8bc6-0db7926e4cce&page=0_0#)">
+    <img src="./erd" alt="Logo" width="200" height="80">
+  </a>
+2. 
 
 ## Getting Started
 
