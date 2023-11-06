@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Mhiudangniengrang/FPT_LOGIN">
-    <img src="./src/assets/image/logo.png" alt="Logo" width="140" height="80">
+    <img src="./logo.png" alt="Logo" width="140" height="80">
   </a>
 </div>
 
