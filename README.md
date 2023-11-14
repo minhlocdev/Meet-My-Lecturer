@@ -17,7 +17,7 @@
     <img src="./Use Case Diagram .png" alt="Logo" width="1302" height="809">
 2. ERD diagram:
    
-    <img src="./erd-diagram.png" alt="Logo" width="1302" height="900">
+    <img src="./erd-diagram.png" alt="Logo" width="1302" height="700">
 3. Database diagram:
    
    <img src="./data-base.jpg" alt="Logo" width="1100" height="550">
