@@ -17,10 +17,10 @@
     <img src="./Use Case Diagram .png" alt="Logo" width="1302" height="809">
 2. ERD diagram:
    
-    <img src="./erd-diagram.jpg" alt="Logo" width="1302" height="1070">
+    <img src="./erd-diagram.png" alt="Logo" width="1302" height="1070">
 3. Database diagram:
    
-   <img src="./data-base.jpg" alt="Logo" width="1988" height="989">
+   <img src="./data-base.jpg" alt="Logo" width="1100" height="550">
 
 ## Getting Started
 
