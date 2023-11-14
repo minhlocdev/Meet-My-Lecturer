@@ -14,7 +14,7 @@
 ## About The Project
 1. Usecase Diagram:
 
-    <img src="./Use Case Diagram .png" alt="Logo" width="1302" height="809">
+    <img src="./Use Case Diagram .png" alt="Logo" width="1302" height="750">
 2. ERD diagram:
    
     <img src="./erd-diagram.png" alt="Logo" width="1302" height="700">
